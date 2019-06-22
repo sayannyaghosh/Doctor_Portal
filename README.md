@@ -43,5 +43,5 @@ appointment for their required date and time.
 ## Usage:
 
 ##### 1. Cloning the repository.
-  git clone https://github.com/roshni-b/Audio-Visualizer.git
-  cd Audio-Visualizer
+  git clone https://github.com/sayannyaghosh/Doctor_Portal.git
+  cd Doctor_Portal
