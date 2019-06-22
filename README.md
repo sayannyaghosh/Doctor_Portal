@@ -51,3 +51,4 @@ appointment for their required date and time.
       * Technologies Used: Web Technologies (HTML, CSS, JavaScript and Boostrap)
       * Server: XAMPP
       * Database: MySQL
+      * index.php
