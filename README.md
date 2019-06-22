@@ -40,3 +40,8 @@ appointment for their required date and time.
     * login_tbl
     * reg_tbl
     
+## Usage:
+
+##### 1. Cloning the repository.
+  git clone https://github.com/roshni-b/Audio-Visualizer.git
+  cd Audio-Visualizer
