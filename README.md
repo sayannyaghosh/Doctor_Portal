@@ -45,3 +45,9 @@ appointment for their required date and time.
 ##### 1. Cloning the repository.
   git clone https://github.com/sayannyaghosh/Doctor_Portal.git
   cd Doctor_Portal
+  
+##### 2. Running the script
+      * Tools Used: Adobe Dreamweaver CS6
+      * Technologies Used: Web Technologies (HTML, CSS, JavaScript and Boostrap)
+      * Server: XAMPP
+      * Database: MySQL
